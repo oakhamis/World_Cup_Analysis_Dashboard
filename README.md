@@ -40,5 +40,6 @@ This repository contains a detailed Power BI dashboard on the FIFA World Cup, of
 ---
 
 *Data sourced from Power BI Desktop report. For a detailed breakdown and visualizations, refer to the pbix file.*
-*The image used is under creative common license [link to image](https://the-14.com/wp-content/uploads/2023/10/World-Cup-Opening-Ceremony-in-Doha-Qatar-November-21-2022-scaled.jpg)*
+
+*The image used is under creative common license [link to image](https://the-14.com/wp-content/uploads/2023/10/World-Cup-Opening-Ceremony-in-Doha-Qatar-November-21-2022-scaled.jpg)*.
 
