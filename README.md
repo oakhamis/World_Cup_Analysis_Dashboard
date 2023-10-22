@@ -36,3 +36,7 @@ This repository contains a detailed Power BI dashboard on the FIFA World Cup, of
 - **Top Goal Scorers**: Ronaldo, Klose, and Gerd Mueller lead the charts.
 - **Teams by Goals Scored**: Brazil and Argentina dominate in terms of goals.
 - **Teams by Yellow Cards**: Brazil and Argentina also have the highest yellow card counts.
+
+---
+
+*Data sourced from Power BI Desktop report. For a detailed breakdown and visualizations, refer to the pbix file.*
